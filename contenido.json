@@ -1,10 +1,14 @@
 {
-  "version": 1,
+  "version": 2,
   "default": {
     "amanecer": "imagenes/amanecer/amanecer_001.bin",
     "dia": "imagenes/dia/dia_001.bin",
     "atardecer": "imagenes/atardecer/atardecer_001.bin",
     "noche": "imagenes/noche/noche_001.bin"
   },
-  "dias": {}
+  "dias": {
+    "2026-09-16": {
+      "noche": "imagenes/atardecer/atardecer_001.bin"
+    }
+  }
 }
